@@ -1,6 +1,17 @@
-Thanks for downloading this template!
+#Handwritten Digit Classification
+  This repository contains a mini Data Science project for handwritten digit classification using the sklearn.datasets.load_digits dataset, where various classification algorithms (KNN, SVM, Decision Tree, Random Forest, and MLPClassifier) are compared using cross-validation.
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+##Overview
+  The project involves data preprocessing, model training, evaluation using metrics like accuracy and confusion matrix, and hyperparameter optimization to determine the best-    performing model for classifying digits (0-9).
+
+##Requirements
+  1. Python 3.x
+  2. scikit-learn
+  3. pandas
+  4. numpy
+  5. matplotlib
+
+##How to Run
+  1. Clone this repository.
+  2. Install the required packages listed in requirements.txt.
+  3. Open the Jupyter Notebook provided and run the cells to replicate the experiments.
